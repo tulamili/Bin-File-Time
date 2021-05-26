@@ -1,0 +1,11 @@
+Changes
+INSTALL
+lib/Bin/File/Time.pm
+LICENSE
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+README
+scripts/lastaccess
+scripts/madeafter
+scripts/timeput
