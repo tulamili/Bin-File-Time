@@ -1,5 +1,5 @@
 
-INSTALL memo for "Bin::Li" : 
+INSTALL memo for "Bin::File::Time" : 
 
 1. Probably nothing should be written here rather than the normal CPAN module installation method, hopefully.
 
@@ -11,19 +11,19 @@ INSTALL memo for "Bin::Li" :
   -- The author reuquires Perl 5.14 (published 2011-05-14; just around 10 years ago as of the author is writinet this document.)
 
 3. Still and also "Pod::Pod-PerldocJp" is recommendable to install because then the "perldoc" can show you the Japanese characters that 
-   might be provided in each command line program which is provided by this "Bin::Li" module. 
+   might be provided in each command line program which is provided by this "Bin::File::Time" module. 
 
 4. The "normal installation method" :
 
-  -- Run the command "cpanm Bin::Li". 
-  -- If you want uninstall : "cpanm -U Bin::Li". 
+  -- Run the command "cpanm Bin::File::Time". 
+  -- If you want uninstall : "cpanm -U Bin::File::Time". 
 
 5. A kind of caveat : 
   
   -- If you do want to use neither cpanm (cpanminus) nor cpanplus, and you just want to use "cpan", 
-     the uninstallation of this "Bin::Li" maybe difficult. 
+     the uninstallation of this "Bin::File::Time" maybe difficult. 
 
-  -- Perhaps in perhaps the names of the scripts which "Bin::Li" provides would collide with the
+  -- Perhaps in perhaps the names of the scripts which "Bin::File::Time" provides would collide with the
      names of other scripts on your calculator environment if the name of programs exactly the same. 
      The common sense of experts may help you to solve out this situation if it happens.
      

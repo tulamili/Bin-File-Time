@@ -1,7 +1,7 @@
 package Bin::File::Time ; 
 
-our $VERSION = "0.200" ; 
-our $DATE = "2021-05-26T11:22" ; 
+our $VERSION = "0.210" ; 
+our $DATE = "2021-05-29T01:30+09:00" ; 
 
 =encoding utf8
 
